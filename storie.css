@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://images3.alphacoders.com/114/thumb-1920-11439.png");
+    background-repeat: no-repeat;
+    background-size: 1500px, 20px;
+}
+.storielist{  position:absolute;
+    left:25%;
+    top:40%;
+    padding:20px;
+    height: 240pxpx;
+    width:600px;
+    color:cyan; 
+    background-color:rgba(80, 230, 108, 0.444);
+    border:5px solid #d51111;}
+#hi{
+    font-size: 30px;
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+    color:cyan;
+}
+#i1{
+    text-align: right;
+}

@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.060b8f07f9874934f2e0926c29fb505c?rik=efDsWABIxTzOXg&pid=ImgRaw&r=0ss");
+    background-size: 1500px, 20px;
+    text-align: center;
+    padding: 15px;
+}
+h1{
+    font-family: 'Tektur', sans-serif;
+    font-size: 60px;
+    padding: 50px;
+    color: red
+}
+p{
+    background-color: rgba(160, 235, 11, 0.229);
+    color:white;
+}
+button{
+    width:450px;
+    height: 100px;
+    color:red;
+    background-color: rgb(105, 0, 0);
+    border:none;
+    border-radius: 40px;
+}
+#h6{
+    position:absolute;
+    left:5%;
+    top:5%;
+    width:60px;
+    height: 50px;
+    border:none;
+}
+a{
+    text-decoration: none;
+    color:red;
+}
+#i1{
+    text-align: right;
+}
